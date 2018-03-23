@@ -1,0 +1,34 @@
+/*
+Theme Name: tutocamille
+Description: Theme enfant TwentySeventeen
+Author: Camille
+Template: TwentySeventeen 
+Version: 0.1.0
+*/
+
+
+/*-- Gloabl --*/
+
+body{}
+
+
+
+
+/*-- Styles des articles --*/
+
+
+/*--Extension Smart reading = affiche le tmemps de lecture des articles --*/
+/* Smart Reading Time - Div. CSS */
+
+
+#reading-time{color: green;}
+
+	.srt-reading-time {}
+
+/* Smart Reading Time - Span. CSS */
+
+	.srt-designation {}
+
+	.srt-time {}
+
+	.srt-after-time {}

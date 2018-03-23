@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Reading Time\n"
+"POT-Creation-Date: 2016-02-10 15:15+0100\n"
+"PO-Revision-Date: 2016-02-10 15:15+0100\n"
+"Last-Translator: \n"
+"Language-Team: Sebatien Bosquet <contact@sebastienbosquet.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;_c;__ngettext:1,2;_n:1,2;"
+"_nc:1,2;__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;"
+"_ex:1,2c;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: smart-reading-time-footer.php:1
+msgid "Shortcode"
+msgstr ""
+
+#: smart-reading-time-footer.php:5
+msgid "Use the"
+msgstr ""
+
+#: smart-reading-time-footer.php:5
+msgid "Reading Time: "
+msgstr ""
+
+#: smart-reading-time-footer.php:7
+msgid "Or simply use"
+msgstr ""
+
+#: smart-reading-time-footer.php:7
+msgid "to return the number with no designation"
+msgstr ""
+
+#: smart-reading-time-footer.php:11
+msgid "Theme"
+msgstr ""
+
+#: smart-reading-time-footer.php:15
+msgid "If you want to insert the reading time into your theme"
+msgstr ""
+
+#: smart-reading-time-footer.php:19
+msgid "CSS Properties"
+msgstr ""
+
+#: smart-reading-time-footer.php:23
+msgid ""
+"This section contains informations about of the CSS properties belonging to "
+"the plugin"
+msgstr ""
+
+#: smart-reading-time-footer.php:27
+msgid ""
+"Copy and paste the following code into your <code>style.css</code> stylesheet"
+msgstr ""
+
+#: smart-reading-time-footer.php:69
+msgid "Smart Reading Time is a free WordPress plugin written by"
+msgstr ""
+
+#: smart-reading-time-footer.php:71
+msgid "For help and support using this plugin, please"
+msgstr ""
+
+#: smart-reading-time-footer.php:71
+msgid "contact me"
+msgstr ""
+
+#: smart-reading-time-footer.php:71
+msgid "directly"
+msgstr ""
+
+#: smart-reading-time-footer.php:73
+msgid "And if you prefer to use Twitter"
+msgstr ""
+
+#: srt-reading-time-admin.php:51
+msgid "Options saved."
+msgstr ""
+
+#: srt-reading-time-admin.php:77
+msgid "Smart Reading Time Settings"
+msgstr ""
+
+#: srt-reading-time-admin.php:81
+msgid "An adult reads about 300 words per minute on an average"
+msgstr ""
+
+#: srt-reading-time-admin.php:83
+msgid ""
+"Studies reveal that an average individual in business reads no faster than "
+"what people did nearly 10 decades back. As such, the average reading speed "
+"also varies based on an individual’s profession. On a broader spectrum, an "
+"adult reads about 300 words per minute on an average. On the other hand, a "
+"college student reads about 450 words per minute on an average. The increase "
+"in speed is primarily because a student is exposed to more reading "
+"activities in comparison to an adult. The increased practice definitely "
+"offers an upper edge over here, when it comes to speed reading. It’s "
+"estimated that a student spends nearly 4-5 hours a day for reading or "
+"studying activities."
+msgstr ""
+
+#: srt-reading-time-admin.php:107
+msgid "Reading time designation: "
+msgstr ""
+
+#: srt-reading-time-admin.php:111
+msgid "This value appears before the reading time. Leave blank for none."
+msgstr ""
+
+#: srt-reading-time-admin.php:119
+msgid "Words per minute: "
+msgstr ""
+
+#: srt-reading-time-admin.php:123
+msgid "(defaults to 300, the average reading speed for adults)"
+msgstr ""
+
+#: srt-reading-time-admin.php:131
+msgid "After time: "
+msgstr ""
+
+#: srt-reading-time-admin.php:135
+msgid "This value appears after the reading time. Leave blank for none."
+msgstr ""
+
+#: srt-reading-time-admin.php:143
+msgid "Insert Smart Reading Time: "
+msgstr ""
+
+#: srt-reading-time-admin.php:145 srt-reading-time-admin.php:149
+msgid "before the post content"
+msgstr ""
+
+#: srt-reading-time-admin.php:161
+msgid "Save Changes"
+msgstr ""
+
+#: srt-reading-time.php:41
+msgid "Estimates an average required time to complete reading a post."
+msgstr ""
+
+#: srt-reading-time.php:117
+msgid " minute"
+msgstr ""
+
+#: srt-reading-time.php:119
+msgid " second"
+msgstr ""
+
+#: srt-reading-time.php:121
+msgid " and "
+msgstr ""
+
+#: update/github-checker.php:120
+msgid "There is no changelog available."
+msgstr ""
+
+#: update/plugin-update-checker.php:637
+msgid "Check for updates"
+msgstr ""
+
+#: update/plugin-update-checker.php:681
+msgid "This plugin is up to date."
+msgstr ""
+
+#: update/plugin-update-checker.php:683
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: update/plugin-update-checker.php:685
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
