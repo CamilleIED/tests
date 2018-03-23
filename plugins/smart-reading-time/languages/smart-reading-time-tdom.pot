@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Smart Reading Time\n"
-"POT-Creation-Date: 2016-02-10 15:15+0100\n"
-"PO-Revision-Date: 2016-02-10 15:15+0100\n"
+"POT-Creation-Date: 2015-05-07 11:00+0100\n"
+"PO-Revision-Date: 2015-05-07 11:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: Sebatien Bosquet <contact@sebastienbosquet.com>\n"
 "Language: fr_FR\n"
@@ -22,78 +22,73 @@ msgstr ""
 msgid "Shortcode"
 msgstr ""
 
-#: smart-reading-time-footer.php:5
+#: smart-reading-time-footer.php:3
 msgid "Use the"
 msgstr ""
 
-#: smart-reading-time-footer.php:5
+#: smart-reading-time-footer.php:3
 msgid "Reading Time: "
 msgstr ""
 
-#: smart-reading-time-footer.php:7
+#: smart-reading-time-footer.php:4
 msgid "Or simply use"
 msgstr ""
 
-#: smart-reading-time-footer.php:7
+#: smart-reading-time-footer.php:4
 msgid "to return the number with no designation"
 msgstr ""
 
-#: smart-reading-time-footer.php:11
+#: smart-reading-time-footer.php:6
 msgid "Theme"
 msgstr ""
 
-#: smart-reading-time-footer.php:15
+#: smart-reading-time-footer.php:8
 msgid "If you want to insert the reading time into your theme"
 msgstr ""
 
-#: smart-reading-time-footer.php:19
+#: smart-reading-time-footer.php:10
 msgid "CSS Properties"
 msgstr ""
 
-#: smart-reading-time-footer.php:23
+#: smart-reading-time-footer.php:12
 msgid ""
 "This section contains informations about of the CSS properties belonging to "
 "the plugin"
 msgstr ""
 
-#: smart-reading-time-footer.php:27
-msgid ""
-"Copy and paste the following code into your <code>style.css</code> stylesheet"
-msgstr ""
-
-#: smart-reading-time-footer.php:69
+#: smart-reading-time-footer.php:34
 msgid "Smart Reading Time is a free WordPress plugin written by"
 msgstr ""
 
-#: smart-reading-time-footer.php:71
+#: smart-reading-time-footer.php:35
 msgid "For help and support using this plugin, please"
 msgstr ""
 
-#: smart-reading-time-footer.php:71
+#: smart-reading-time-footer.php:35
 msgid "contact me"
 msgstr ""
 
-#: smart-reading-time-footer.php:71
+#: smart-reading-time-footer.php:35
 msgid "directly"
 msgstr ""
 
-#: smart-reading-time-footer.php:73
+#: smart-reading-time-footer.php:36
 msgid "And if you prefer to use Twitter"
 msgstr ""
 
-#: srt-reading-time-admin.php:51
+#: srt-reading-time-admin.php:24
 msgid "Options saved."
 msgstr ""
 
-#: srt-reading-time-admin.php:77
+#: srt-reading-time-admin.php:36
 msgid "Smart Reading Time Settings"
 msgstr ""
 
-#: srt-reading-time-admin.php:81
+#: srt-reading-time-admin.php:38
 msgid "An adult reads about 300 words per minute on an average"
 msgstr ""
 
-#: srt-reading-time-admin.php:83
+#: srt-reading-time-admin.php:39
 msgid ""
 "Studies reveal that an average individual in business reads no faster than "
 "what people did nearly 10 decades back. As such, the average reading speed "
@@ -107,75 +102,42 @@ msgid ""
 "studying activities."
 msgstr ""
 
-#: srt-reading-time-admin.php:107
+#: srt-reading-time-admin.php:51
 msgid "Reading time designation: "
 msgstr ""
 
-#: srt-reading-time-admin.php:111
+#: srt-reading-time-admin.php:53
 msgid "This value appears before the reading time. Leave blank for none."
 msgstr ""
 
-#: srt-reading-time-admin.php:119
+#: srt-reading-time-admin.php:57
 msgid "Words per minute: "
 msgstr ""
 
-#: srt-reading-time-admin.php:123
+#: srt-reading-time-admin.php:59
 msgid "(defaults to 300, the average reading speed for adults)"
 msgstr ""
 
-#: srt-reading-time-admin.php:131
-msgid "After time: "
-msgstr ""
-
-#: srt-reading-time-admin.php:135
-msgid "This value appears after the reading time. Leave blank for none."
-msgstr ""
-
-#: srt-reading-time-admin.php:143
+#: srt-reading-time-admin.php:63
 msgid "Insert Smart Reading Time: "
 msgstr ""
 
-#: srt-reading-time-admin.php:145 srt-reading-time-admin.php:149
+#: srt-reading-time-admin.php:64 srt-reading-time-admin.php:66
 msgid "before the post content"
 msgstr ""
 
-#: srt-reading-time-admin.php:161
+#: srt-reading-time-admin.php:72
 msgid "Save Changes"
 msgstr ""
 
-#: srt-reading-time.php:41
-msgid "Estimates an average required time to complete reading a post."
-msgstr ""
-
-#: srt-reading-time.php:117
+#: srt-reading-time.php:71
 msgid " minute"
 msgstr ""
 
-#: srt-reading-time.php:119
+#: srt-reading-time.php:72
 msgid " second"
 msgstr ""
 
-#: srt-reading-time.php:121
+#: srt-reading-time.php:73
 msgid " and "
-msgstr ""
-
-#: update/github-checker.php:120
-msgid "There is no changelog available."
-msgstr ""
-
-#: update/plugin-update-checker.php:637
-msgid "Check for updates"
-msgstr ""
-
-#: update/plugin-update-checker.php:681
-msgid "This plugin is up to date."
-msgstr ""
-
-#: update/plugin-update-checker.php:683
-msgid "A new version of this plugin is available."
-msgstr ""
-
-#: update/plugin-update-checker.php:685
-#, php-format
-msgid "Unknown update checker status \"%s\""
 msgstr ""

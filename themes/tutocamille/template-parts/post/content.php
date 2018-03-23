@@ -39,7 +39,10 @@
 			the_title( '<h2 class="entry-title"><a href="' . esc_url( get_permalink() ) . '" rel="bookmark">', '</a></h2>' );
 		}
 		?>
-	</header><!-- .entry-header -->
+	</header>				
+	<div id="reading-time"><? php do_shortcode('[srt_reading_time]')?></div>
+
+	<!-- .entry-header -->
 
 	<?php if ( '' !== get_the_post_thumbnail() && ! is_single() ) : ?>
 		<div class="post-thumbnail">
@@ -48,8 +51,9 @@
 			</a>
 		</div><!-- .post-thumbnail -->
 	<?php endif; ?>
-	<div id="reading-time"><? php do_shortcode('[srt_reading_time]')?></div>
+
 	<div class="entry-content">
+
 		<?php
 		/* translators: %s: Name of current post */
 		the_content( sprintf(
