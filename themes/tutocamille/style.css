@@ -1,17 +1,16 @@
 /*
 Theme Name: tutocamille
-Description: Theme enfant TwentySeventeen
+Description: Theme enfant TwentyFifteen
 Author: Camille
-Template: TwentySeventeen 
+Template: twentyfifteen
 Version: 0.1.0
 */
 
 
-/*-- Gloabl --*/
-
-body{}
+/*-- Global --*/
 
 
+.entry-title{color: green;}
 
 
 /*-- Styles des articles --*/
@@ -21,7 +20,7 @@ body{}
 /* Smart Reading Time - Div. CSS */
 
 
-#reading-time{color: green;}
+#reading-time{}
 
 	.srt-reading-time {}
 

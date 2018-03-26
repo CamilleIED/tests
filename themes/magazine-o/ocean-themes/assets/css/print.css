@@ -1,0 +1,30 @@
+
+
+@media screen, print { 
+
+/*Saving a HTTP request by combining screen and print styles*/
+
+	
+
+html, body, .template-page {
+
+	height: 100%;
+
+	padding: 0;
+
+	margin: 0;
+
+}	
+
+
+
+/*css override for print*/
+
+@media print
+
+{
+
+    .noShow {display:none;}   
+
+}
+

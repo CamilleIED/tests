@@ -1,0 +1,46 @@
+
+/*  THEME COLOR: Single Tone
+==========================================*/
+
+/*background*/
+
+.navbar-nav .dropdown-menu > li > a:focus, .navbar-nav .dropdown-menu > li > a:hover,
+a.cat-label,
+.block-title,
+.sidebar .widget-title h3,
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover,
+.error-404-title,
+.reply a.comment-reply-link:hover,
+button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover
+{
+    background: #c32035;
+}
+
+/*color*/
+
+.subcat-list li a:hover,
+article a:hover h2,
+article .post-meta .meta-item a:hover,
+footer a:hover, footer a:focus,
+footer .ft-btm a:hover,
+.block-archive article a.btn-default,
+.block-archive article a:hover, .single .post-meta a:hover,
+.comment-navigation .nav-previous:hover, .posts-navigation .nav-previous:hover, .post-navigation .nav-previous:hover,
+.comment-navigation .nav-next:hover, .posts-navigation .nav-next:hover, .post-navigation .nav-next:hover,
+button, input[type="button"], input[type="reset"], input[type="submit"],
+.comments-title,
+.comments-title::before{
+    color: #c32035;
+}
+
+/*border*/
+
+.block-title-con,
+button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover,
+a.btn-default, button.btn-default, input[type="submit"].btn-default, input[type="submit"],
+button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover{
+    border-color: #c32035;
+}
+
+/*  LAYOUT COLOR:
+==========================================*/
